@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VerdRommeTech
 - 👀 I’m interested in working on different web and app development projects
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on all Software Development activvites
+- 💞️ I’m looking to collaborate on all Software Development activities
 - 📫 How to reach me you can reach us on contact@verdrommetech.com
 
 <!---
